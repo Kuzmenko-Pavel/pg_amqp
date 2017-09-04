@@ -1,4 +1,5 @@
-pg_amqp
+pg_amqp for postgresql version >= 9.6
+=========
 
 The pg_amqp package provides the ability for postgres statements to directly
 publish messages to an [AMQP](http://www.amqp.org/) broker. Version 0.4.2 also provides an implementation 
